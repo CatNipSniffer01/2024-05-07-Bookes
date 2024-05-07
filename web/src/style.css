@@ -1,0 +1,22 @@
+/*
+* File: style.css
+* Author: Czövek Balázs
+* Copyright: 2024, Czovek Balázs
+* Group: Szoft I/1/N
+* Date: 2024-05-07
+* Github: https://github.com/CatNipSniffer01/
+* Licenc: GNU GPL
+*/
+body{
+    width: 100%;
+    background-color: beige;
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    background-color: aqua;
+    width :200px;
+}
+th{
+    width: 100px;
+}

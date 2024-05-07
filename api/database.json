@@ -1,0 +1,34 @@
+{
+  "Books": [
+    {
+      "Id": 1,
+      "Name": "Egri Csillagok",
+      "Author": "Gönc Árpád",
+      "Price": 1000
+    },
+    {
+      "Id": 2,
+      "Name": "A Gyűrük Ura",
+      "Author": "Marathon Márk",
+      "Price": 5000
+    },
+    {
+      "Id": 3,
+      "Name": "Pál Utcai Fiúk",
+      "Author": "Molnár Ferenc",
+      "Price": 2000
+    },
+    {
+      "Id": 4,
+      "Name": "Két Év Külker",
+      "Author": "Czövek Balázs",
+      "Price": 50000
+    },
+    {
+      "Id": 5,
+      "Name": "Star Wars",
+      "Author": "Lucas Arts",
+      "Price": 25000
+    }    
+    ]
+}
